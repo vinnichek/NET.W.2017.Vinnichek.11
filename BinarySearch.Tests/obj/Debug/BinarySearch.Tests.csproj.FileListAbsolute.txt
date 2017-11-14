@@ -1,0 +1,10 @@
+/Users/vinnichek/Projects/Task11/BinarySearch.Tests/bin/Debug/BinarySearch.Tests.dll
+/Users/vinnichek/Projects/Task11/BinarySearch.Tests/bin/Debug/BinarySearch.Tests.pdb
+/Users/vinnichek/Projects/Task11/BinarySearch.Tests/bin/Debug/BinarySearch.Logic.dll
+/Users/vinnichek/Projects/Task11/BinarySearch.Tests/bin/Debug/nunit.framework.dll
+/Users/vinnichek/Projects/Task11/BinarySearch.Tests/bin/Debug/BinarySearch.Logic.pdb
+/Users/vinnichek/Projects/Task11/BinarySearch.Tests/bin/Debug/nunit.framework.xml
+/Users/vinnichek/Projects/Task11/BinarySearch.Tests/obj/Debug/BinarySearch.Tests.csprojResolveAssemblyReference.cache
+/Users/vinnichek/Projects/Task11/BinarySearch.Tests/obj/Debug/BinarySearch.Tests.csproj.CoreCompileInputs.cache
+/Users/vinnichek/Projects/Task11/BinarySearch.Tests/obj/Debug/BinarySearch.Tests.dll
+/Users/vinnichek/Projects/Task11/BinarySearch.Tests/obj/Debug/BinarySearch.Tests.pdb

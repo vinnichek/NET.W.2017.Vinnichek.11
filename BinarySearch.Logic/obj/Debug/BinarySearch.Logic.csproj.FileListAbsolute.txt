@@ -1,0 +1,5 @@
+/Users/vinnichek/Projects/Task11/BinarySearch.Logic/bin/Debug/BinarySearch.Logic.dll
+/Users/vinnichek/Projects/Task11/BinarySearch.Logic/bin/Debug/BinarySearch.Logic.pdb
+/Users/vinnichek/Projects/Task11/BinarySearch.Logic/obj/Debug/BinarySearch.Logic.csproj.CoreCompileInputs.cache
+/Users/vinnichek/Projects/Task11/BinarySearch.Logic/obj/Debug/BinarySearch.Logic.dll
+/Users/vinnichek/Projects/Task11/BinarySearch.Logic/obj/Debug/BinarySearch.Logic.pdb

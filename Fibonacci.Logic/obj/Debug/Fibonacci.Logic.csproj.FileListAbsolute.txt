@@ -1,0 +1,6 @@
+/Users/vinnichek/Projects/Task11/Fibonacci.Logic/bin/Debug/Fibonacci.Logic.dll
+/Users/vinnichek/Projects/Task11/Fibonacci.Logic/bin/Debug/Fibonacci.Logic.pdb
+/Users/vinnichek/Projects/Task11/Fibonacci.Logic/obj/Debug/Fibonacci.Logic.csprojResolveAssemblyReference.cache
+/Users/vinnichek/Projects/Task11/Fibonacci.Logic/obj/Debug/Fibonacci.Logic.csproj.CoreCompileInputs.cache
+/Users/vinnichek/Projects/Task11/Fibonacci.Logic/obj/Debug/Fibonacci.Logic.dll
+/Users/vinnichek/Projects/Task11/Fibonacci.Logic/obj/Debug/Fibonacci.Logic.pdb

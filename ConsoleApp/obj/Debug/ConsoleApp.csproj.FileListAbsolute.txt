@@ -1,0 +1,2 @@
+/Users/vinnichek/Projects/Task11/ConsoleApp/obj/Debug/ConsoleApp.csprojResolveAssemblyReference.cache
+/Users/vinnichek/Projects/Task11/ConsoleApp/obj/Debug/ConsoleApp.csproj.CoreCompileInputs.cache
