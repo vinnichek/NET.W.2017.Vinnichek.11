@@ -1,0 +1,6 @@
+/Users/vinnichek/Projects/Task11/ImitationWatches.Logic/obj/Debug/ImitationWatches.Logic.csproj.CoreCompileInputs.cache
+/Users/vinnichek/Projects/Task11/ImitationWatches.Logic/bin/Debug/ImitationWatches.Logic.dll
+/Users/vinnichek/Projects/Task11/ImitationWatches.Logic/bin/Debug/ImitationWatches.Logic.pdb
+/Users/vinnichek/Projects/Task11/ImitationWatches.Logic/obj/Debug/ImitationWatches.Logic.dll
+/Users/vinnichek/Projects/Task11/ImitationWatches.Logic/obj/Debug/ImitationWatches.Logic.pdb
+/Users/vinnichek/Projects/Task11/ImitationWatches.Logic/obj/Debug/ImitationWatches.Logic.csprojResolveAssemblyReference.cache

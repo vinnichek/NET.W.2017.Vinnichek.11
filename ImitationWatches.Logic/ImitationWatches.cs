@@ -3,13 +3,13 @@ using System.Threading;
 
 namespace ImitationWatches.Logic
 {
-    class ImitationWatches
+    public class ImitationWatches
     {
         public delegate void ImitationWatchesEventHandler(object sender, ImitationWatchesEventArgs e);
 
         public event ImitationWatchesEventHandler TimeIsOver;
 
-        protected virtual void OnTimeIsOver(object sender, ImitationWatchesEventArgs e)
+        public virtual void OnTimeIsOver(object sender, ImitationWatchesEventArgs e)
         {
             if (TimeIsOver != null)
             {

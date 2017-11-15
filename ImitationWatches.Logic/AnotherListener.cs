@@ -1,12 +1,9 @@
 ﻿using System;
 namespace ImitationWatches.Logic
 {
-    public class Listener
+    public class AnotherListener
     {
-        public Listener(ImitationWatches watches)
-        {
-            watches.TimeIsOver += Message;
-        }
+        public AnotherListener() { }
 
         public void Register(ImitationWatches watches)
         {

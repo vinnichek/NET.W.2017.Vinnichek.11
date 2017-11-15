@@ -1,2 +1,10 @@
 /Users/vinnichek/Projects/Task11/ConsoleApp/obj/Debug/ConsoleApp.csprojResolveAssemblyReference.cache
 /Users/vinnichek/Projects/Task11/ConsoleApp/obj/Debug/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/vinnichek/Projects/Task11/ConsoleApp/bin/Debug/ConsoleApp.exe
+/Users/vinnichek/Projects/Task11/ConsoleApp/bin/Debug/ConsoleApp.pdb
+/Users/vinnichek/Projects/Task11/ConsoleApp/bin/Debug/Fibonacci.Logic.dll
+/Users/vinnichek/Projects/Task11/ConsoleApp/bin/Debug/ImitationWatches.Logic.dll
+/Users/vinnichek/Projects/Task11/ConsoleApp/bin/Debug/Fibonacci.Logic.pdb
+/Users/vinnichek/Projects/Task11/ConsoleApp/bin/Debug/ImitationWatches.Logic.pdb
+/Users/vinnichek/Projects/Task11/ConsoleApp/obj/Debug/ConsoleApp.exe
+/Users/vinnichek/Projects/Task11/ConsoleApp/obj/Debug/ConsoleApp.pdb

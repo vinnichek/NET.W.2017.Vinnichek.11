@@ -1,7 +1,7 @@
 ﻿using System;
 namespace ImitationWatches.Logic
 {
-    internal sealed class ImitationWatchesEventArgs : EventArgs
+    public sealed class ImitationWatchesEventArgs : EventArgs
     {
         private int time;
         private string message;
