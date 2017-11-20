@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Numerics;
 
 namespace Fibonacci.Logic
 {
@@ -10,25 +11,27 @@ namespace Fibonacci.Logic
         /// </summary>
         /// <param name="count">Count of numbers for generation.</param>
         /// <returns>Fibonacci sequence.</returns>
-        public static IEnumerable<long> GetFibonacciNumbers(int count)
+        public static IEnumerable<BigInteger> GetFibonacciNumbers(int count)
         {
-            if (count <= 0)
+            if (count < 0)
                 throw new ArgumentException($"{nameof(count)} not valid.");
-            
-            return Enumerate();
 
-            IEnumerable<long> Enumerate()
+            return FibonacciCore(count);
+
+            IEnumerable<BigInteger> FibonacciCore(int length)
             {
-                long prevNumber = -1;
-                long nextNumber = 1;
-                long temp;
+                BigInteger previous = 1,
+                next = 1;
 
-                for (int i = 0; i < count; i++)
+                for (int i = 0; i < length; i++)
                 {
-                    temp = nextNumber;
-                    yield return nextNumber += prevNumber;
-                    prevNumber = temp;
+                    yield return previous;
+
+                    var temp = next;
+                    next = previous + next;
+                    previous = temp;
                 }
+
             }
         }
     }
